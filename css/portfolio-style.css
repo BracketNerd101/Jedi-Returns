@@ -40,22 +40,18 @@ font-family: 'Josefin Slab', serif;
 }
 
 
-.close-btn-placement{
+.about-me-btn {
 
-
+border-radius: 18px;
 
 }
 
-/*a {
+.portfolio-me-btn {
 
-  line-height: inherit;
-  color: #1779ba;
-  text-decoration: none;
-  cursor: pointer;
-  background-color: transparent;
-  height: inherit;
-  width: inherit;
-}*/
+border-radius: 35px;
+
+}
+
 
 .intro-banner {
 
@@ -68,7 +64,6 @@ background: -o-linear-gradient(top,#32cd32,#84bd00); /*Opera 11.1-12*/
 background: -moz-linear-gradient(top,#32cd32,#84bd00); /*Fx 3.6-15*/
 background: linear-gradient(to bottom, #32cd32, #84bd00); /*Standard*/
 
-
 }
 
 .about-homepage-style {
@@ -79,7 +74,7 @@ background: linear-gradient(to bottom, #32cd32, #84bd00); /*Standard*/
 .header-homepage-style {
 
   font-family: 'Josefin Slab', serif;
-  margin-top: 20rem;
+  margin-top: 25rem;
   margin-bottom: 2rem;
   font-size: 3rem;
 
@@ -256,8 +251,8 @@ font-family: 'Josefin Slab', serif;
 
 .footer-styles {
 
-  padding-top: 3rem;
-  padding-bottom: 3rem;
-  background-color: #343a40!important;
+  padding-top: 6rem;
+  padding-bottom: 1rem;
+  background-color: #343a40 !important;
   font-size: 2rem;
 }

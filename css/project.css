@@ -1,0 +1,53 @@
+body {
+
+
+}
+
+.project-header {
+
+
+}
+
+.project-sub-header {
+
+
+}
+
+
+.project-description {
+
+
+}
+
+
+/* ----------- about page css ---------  */
+.header-about-style {
+
+  font-family: 'Josefin Slab', serif;
+  margin-top: 9rem;
+  margin-bottom: 2rem;
+  font-size: 3rem;
+
+
+}
+
+.about-arthur {
+
+  margin-top: 3rem;
+
+
+}
+
+
+  .about-banner {
+
+    height: inherit;
+    margin-bottom: auto;
+
+  background: #32cd32; /* Old Browsers */
+  background: -webkit-linear-gradient(top,#32cd32,#84bd00); /*Safari 5.1-6*/
+  background: -o-linear-gradient(top,#32cd32,#84bd00); /*Opera 11.1-12*/
+  background: -moz-linear-gradient(top,#32cd32,#84bd00); /*Fx 3.6-15*/
+  background: linear-gradient(to bottom, #32cd32, #84bd00); /*Standard*/
+
+  }
