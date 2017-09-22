@@ -76,17 +76,22 @@ background: linear-gradient(to bottom, #32cd32, #84bd00); /*Standard*/
 .header-homepage-style {
 
   font-family: 'Josefin Slab', serif;
-  margin-top: 25rem;
-  margin-bottom: 2rem;
-  font-size: 3rem;
+  margin-top: 14rem;
+  /*margin-bottom: 14rem;*/
+  font-size: 4rem;
 
+}
+
+.create-subtitle {
+
+  font-family: 'Josefin Slab', serif;
+  margin-bottom: 14rem;
 
 }
 
 .scroll-down-icon {
 
-     font-size: 2rem;
-
+     font-size: 4rem;
 
 }
 
