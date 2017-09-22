@@ -20,14 +20,58 @@ font-family: 'Josefin Slab', serif;
 
 .project-sub-header {
 
+  font-family: 'Josefin Slab', serif;
+
 
 }
 
 
 .project-description {
 
+  margin-top: 5rem;
+  margin-bottom: 6rem;
+}
+
+.project-body {
+
+
 
 }
+
+.project-icon {
+      font-size: 5rem;
+      margin-top: 7rem;
+
+}
+
+.project-piece {
+
+      margin-bottom: 5rem;
+      margin-left: auto;
+      margin-right: auto;
+      min-width: 100%;
+      z-index: -3;
+      background-size: cover;
+
+    }
+
+  img {
+
+    display: inline-block;
+    vertical-align: middle;
+    width: 100%;
+    height: auto;
+
+
+    }
+
+.back-option {
+    font-family: 'Nunito', sans-serif;
+    margin-bottom: 6rem;
+    font-size: 2rem;
+
+}
+
 
 
 /* ----------- about page css ---------  */
