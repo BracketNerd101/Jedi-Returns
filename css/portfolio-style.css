@@ -36,6 +36,7 @@ font-family: 'Josefin Slab', serif;
 
 }
 
+
 .social-nav-style {
   font-size: 1.9rem;
 
@@ -57,16 +58,25 @@ border-radius: 0px 0px 0px 0px;
 
 .intro-banner {
 
-  height: inherit;
-  margin-bottom: auto;
-
-background: #32cd32; /* Old Browsers */
-background: -webkit-linear-gradient(top,#32cd32,#84bd00); /*Safari 5.1-6*/
-background: -o-linear-gradient(top,#32cd32,#84bd00); /*Opera 11.1-12*/
-background: -moz-linear-gradient(top,#32cd32,#84bd00); /*Fx 3.6-15*/
-background: linear-gradient(to bottom, #32cd32, #84bd00); /*Standard*/
-
+/*background-image: url(../img/Desk-one.png);*/
+background-image: url(../img/Desk-two.png);
+background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover; 
+margin-bottom: auto;
+    
 }
+    
+/*
+background: #32cd32;  Old Browsers *
+background: -webkit-linear-gradient(top,#32cd32,#84bd00); Safari 5.1-6
+background: -o-linear-gradient(top,#32cd32,#84bd00); Opera 11.1-12
+background: -moz-linear-gradient(top,#32cd32,#84bd00); Fx 3.6-15
+background: linear-gradient(to bottom, #32cd32, #84bd00); Standard
+*/
+
+
 
 .about-homepage-style {
 
@@ -77,10 +87,11 @@ background: linear-gradient(to bottom, #32cd32, #84bd00); /*Standard*/
 
   font-family: 'Josefin Slab', serif;
   margin-top: 14rem;
-  /*margin-bottom: 14rem;*/
+  margin-bottom: 1rem;
   font-size: 4rem;
-
 }
+
+
 
 .create-subtitle {
 
@@ -144,7 +155,8 @@ a .thumbnail-click-style {
 
 }
 
-/*------------End of  row css------------*/
+/*------------End of  row css------------
+*/
 
 .portfolio-style-03 {
   background-image: url(../img/harn_paint_hands-16.jpg);
