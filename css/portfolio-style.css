@@ -86,7 +86,7 @@ background: linear-gradient(to bottom, #32cd32, #84bd00); Standard
 
 .header-homepage-style {
 
-  font-family: 'Josefin Slab', serif;
+  font-family: 'Josefin Slab', serif !important;
   margin-top: 14rem;
   margin-bottom: 1rem;
   font-size: 4rem;
