@@ -244,7 +244,10 @@ a .thumbnail-click-style {
 /*------------End of  row css------------*/
 
 
-
+.footer-width-style {
+    
+    width: 100%;
+}
 
 .small-profile {
 
