@@ -97,7 +97,7 @@ img {
 
   margin-top: 3rem;
   font-family: 'Josefin Slab', serif;
-    z-index: 
+    z-index:
 
 }
 
@@ -114,20 +114,21 @@ font-family: 'Nunito', sans-serif;
 
   height: inherit;
   margin-bottom: auto;
-    
- background: #00b09b;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to right, #96c93d, #00b09b);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, #96c93d, #00b09b); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
- 
+
+  background: #56ab2f;  /* fallback for old browsers */
+ background: -webkit-linear-gradient(to right, #a8e063, #56ab2f);  /* Chrome 10-25, Safari 5.1-6 */
+ background: linear-gradient(to right, #a8e063, #56ab2f); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
 
   }
 
 .about-bg-style {
-    
+
      height: inherit;
     margin-bottom: auto;
-    
-    
+
+
 }
 
   .profile-video {
@@ -138,7 +139,7 @@ background: linear-gradient(to right, #96c93d, #00b09b); /* W3C, IE 10+/ Edge, F
 
 
 .profile-img {
-    
+
     width: 205px;
     height: 205px;
     z-index: 9000;
