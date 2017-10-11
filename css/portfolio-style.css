@@ -77,15 +77,18 @@ background-size: cover;
 margin-bottom: auto;
 max-width: auto;
     
-}
+
     
-/*
-background: #32cd32;  Old Browsers *
+
+
+/*background: #32cd32;  
 background: -webkit-linear-gradient(top,#32cd32,#84bd00); Safari 5.1-6
 background: -o-linear-gradient(top,#32cd32,#84bd00); Opera 11.1-12
-background: -moz-linear-gradient(top,#32cd32,#84bd00); Fx 3.6-15
+background: -moz-linear-gradient(top,#32cd32,#84bd00); 
+
 background: linear-gradient(to bottom, #32cd32, #84bd00); Standard
 */
+}
 
 
 
