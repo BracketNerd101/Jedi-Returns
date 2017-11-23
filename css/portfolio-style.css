@@ -77,10 +77,6 @@ background-size: cover;
 margin-bottom: auto;
 max-width: auto;
 
-
-
-
-
 /*background: #32cd32;
 background: -webkit-linear-gradient(top,#32cd32,#84bd00); Safari 5.1-6
 background: -o-linear-gradient(top,#32cd32,#84bd00); Opera 11.1-12
@@ -90,13 +86,9 @@ background: linear-gradient(to bottom, #32cd32, #84bd00); Standard
 */
 }
 
-
-
 .about-homepage-style {
 
-
 }
-
 .header-homepage-style {
 
   font-family: 'Josefin Slab', serif !important;
@@ -105,19 +97,15 @@ background: linear-gradient(to bottom, #32cd32, #84bd00); Standard
   font-size: 4rem;
 }
 
-
-
 .create-subtitle {
 
   font-family: 'Josefin Slab', serif;
   margin-bottom: 3rem;
 
 }
-
 .scroll-down-icon {
 
      font-size: 4rem;
-
 }
 
 /*  Grid of the front masonary  -------------------------------------------------------------------------------------------------------------------  */
@@ -148,7 +136,6 @@ a .thumbnail-click-style {
    margin-top: 25rem;
 
 }
-
 .portfolio-style-01 {
 background-image: url(../img/bank_macbook_air.jpg);
  background-size: cover;
@@ -157,7 +144,6 @@ background-image: url(../img/bank_macbook_air.jpg);
  width: 100%;
 
 }
-
 .portfolio-style-02 {
   background-image: url(../img/chair_mobile4krun.jpg);
   background-size: cover;
@@ -165,7 +151,6 @@ background-image: url(../img/bank_macbook_air.jpg);
   background-size: cover;*/
  height: 30rem;
  width: 100%;
-
 
 }
 
@@ -186,7 +171,6 @@ background-image: url(../img/bank_macbook_air.jpg);
   background-size: cover;
   height: 30rem;
   width: 100%;
-
 }
 
 /*------------End of  row css------------*/
@@ -204,7 +188,6 @@ background-image: url(../img/bank_macbook_air.jpg);
   background-size: cover;
   height: 30rem;
   width: 100%;
-
 }
 
 /*------------End of  row css------------*/
@@ -216,8 +199,6 @@ background-image: url(../img/bank_macbook_air.jpg);
   width: 100%;
 
 }
-
-
 .portfolio-style-08 {
   background-image: url(../img/Allison.jpg);
   background-size: cover;
@@ -227,7 +208,6 @@ background-image: url(../img/bank_macbook_air.jpg);
 }
 
 /*------------End of  row css------------*/
-
 .portfolio-style-09 {
   background-image: url(../img/hockey-bro.jpg);
   background-size: cover;
@@ -245,8 +225,6 @@ background-image: url(../img/bank_macbook_air.jpg);
 }
 
 /*------------End of  row css------------*/
-
-
 .footer-width-style {
 
     width: 100%;
@@ -260,26 +238,22 @@ background-image: url(../img/bank_macbook_air.jpg);
   width: 100%;
   margin-bottom: auto;
 
-
 }
 
 .my-4 {
     border-top: 2px solid #ffffff;
 
 }
-
 .profile-pic-size {
     width: 350px;
 
 }
-
 .small-profile-intro {
 
     height: inherit;
     margin-top: 5rem;
 
 }
-
 .title-about-me {
 
 font-family: 'Josefin Slab', serif;
