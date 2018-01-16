@@ -23,6 +23,12 @@ font-family: 'Josefin Slab', serif;
 
     opacity: 1;
 }
+
+.reveal-links {
+
+  font-size: 2rem;
+}
+
 .hover-style:hover {
 
     opacity: 0.7;
