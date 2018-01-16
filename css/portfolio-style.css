@@ -27,6 +27,7 @@ font-family: 'Josefin Slab', serif;
 .reveal-links {
 
   font-size: 2rem;
+  font-family: 'Josefin Sans', sans-serif;
 }
 
 .hover-style:hover {
@@ -39,7 +40,7 @@ font-family: 'Josefin Slab', serif;
 
 .logo-style {
   font-family: 'Josefin Sans', sans-serif;
-  font-size: 4.1rem;
+  font-size: 3.1rem;
   color: #ffffff;
 
 }
