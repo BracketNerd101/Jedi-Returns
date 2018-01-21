@@ -76,6 +76,11 @@ border-radius: 18px;
 
 }
 
+.nav-bg-style {
+
+  background-color: #000000 !Important;
+}
+
 .portfolio-me-btn {
 
 border-radius: 0px 0px 0px 0px;
